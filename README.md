@@ -69,6 +69,7 @@ Xem món ăn gợi ý.
 Lưu món yêu thích.
 Xem lịch sử tìm kiếm.
 Quản lý thông tin cá nhân.
+
 5.2. Quản trị viên
 
 Quản trị viên có thể:
