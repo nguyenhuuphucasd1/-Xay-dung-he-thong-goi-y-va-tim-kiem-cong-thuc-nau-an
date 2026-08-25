@@ -80,6 +80,7 @@ Quản lý món ăn.
 Quản lý công thức.
 Quản lý nguồn dữ liệu.
 Kiểm tra và cập nhật nội dung hệ thống.
+
 6. Các Use Case tổng quát
 
 Các Use Case chính của hệ thống bao gồm:
@@ -99,7 +100,9 @@ Quản lý thông tin cá nhân.
 Quản lý người dùng.
 Quản lý món ăn.
 Quản lý công thức.
+
 7. Mô tả hoạt động của hệ thống
+
 7.1. Tìm kiếm bằng từ khóa
 
 Người dùng nhập tên món ăn hoặc từ khóa. Hệ thống tiếp nhận yêu cầu, tìm kiếm trong cơ sở dữ liệu và các nguồn dữ liệu bên ngoài, sau đó trả về danh sách các món ăn phù hợp.
@@ -125,7 +128,9 @@ Nguyên liệu.
 Danh mục món ăn.
 Mức độ tương đồng.
 Lịch sử tìm kiếm của người dùng.
+
 8. Công nghệ sử dụng
+
 8.1. Frontend
 ReactJS.
 HTML.
@@ -173,6 +178,7 @@ Nguyên liệu.
 Món ăn yêu thích.
 Lịch sử tìm kiếm.
 Nguồn công thức.
+
 9. Công cụ hỗ trợ
 
 Các công cụ dự kiến sử dụng:
@@ -218,6 +224,7 @@ AI Model nhận diện món ăn.
 Database lưu trữ dữ liệu.
 Recipe API cung cấp dữ liệu công thức.
 Recommendation System xử lý gợi ý món ăn.
+
 12. Kết quả mong đợi
 
 Sau khi hoàn thành, hệ thống dự kiến có khả năng:
@@ -232,6 +239,7 @@ Cung cấp liên kết đến nguồn công thức.
 Lưu món ăn yêu thích.
 Lưu lịch sử tìm kiếm.
 Có giao diện dễ sử dụng.
+
 13. Hướng phát triển
 
 Trong tương lai, hệ thống có thể mở rộng thêm:
