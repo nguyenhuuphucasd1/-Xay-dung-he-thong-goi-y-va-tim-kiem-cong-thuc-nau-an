@@ -245,6 +245,7 @@ Hiển thị thông tin dinh dưỡng.
 Xây dựng ứng dụng trên điện thoại.
 Tích hợp chatbot hỗ trợ nấu ăn.
 Nâng cao độ chính xác của mô hình nhận diện.
+
 14. Kết luận
 
 Đề tài Hệ thống gợi ý và tìm kiếm công thức nấu ăn hướng đến việc xây dựng một ứng dụng kết hợp giữa Trí tuệ nhân tạo, nhận diện hình ảnh, tìm kiếm thông tin và hệ thống gợi ý.
